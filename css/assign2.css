@@ -4,7 +4,7 @@ h1,h3{
 .container{
     margin: auto;
     position: relative;
-    width: 180px;
+    width: 150px;
     height: 80px;
     padding: 10px;
     border: 1px dotted gray;
@@ -12,9 +12,10 @@ h1,h3{
 .box{
     display: inline-block;
     position: relative;
-    width:29%;
+    width: 46px;
     height: 30px;
     border: 1px dashed gray;
+    background-color: antiquewhite;
 }
 .box2{
     position: relative;
